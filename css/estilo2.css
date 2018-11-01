@@ -1,0 +1,27 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+}
+h2, h3{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+h3{
+    text-align: center;
+}
+body{
+    background-color: lightyellow;
+    color: blue;
+}
+footer{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+p{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+p.volver{
+    text-align: right;
+}
